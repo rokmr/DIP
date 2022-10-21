@@ -15,3 +15,8 @@ Section-2
 3.Contrast Limited Adaptive Histogram Equalization (CLAHE)
 4.Image Upsampling with interpolation
 5.Spatial Domain Filtering (High Boost Filtering)
+
+Section-3
+1.Frequency Domain Filtering
+2.Image Denoising
+3.DFT as matrix products
